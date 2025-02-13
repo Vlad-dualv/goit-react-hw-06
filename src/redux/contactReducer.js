@@ -1,7 +1,5 @@
 import { deleteContact, addContact, changeFilter } from "./actions";
 
-
-
 const initialState = {
   contacts: {
     items: [
